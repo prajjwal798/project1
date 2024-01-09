@@ -1,0 +1,3 @@
+emp.id=10001
+emp.name="amitkumar"
+emp.salary=20000
